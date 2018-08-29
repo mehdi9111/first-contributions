@@ -767,7 +767,7 @@
 - [Ashutosh Singh](https://github.com/ashubly25)
 - [Julio Melchor](https://github.com/k4vglitcher)
 - [gipsi](https://github.com/gipsi)
-- [Abdallah Ahmad](https://github.com/AbdallahDev) 
+- [Abdallah Ahmad](https://github.com/AbdallahDev)
 - [girlzap](https://github.com/girlzap)
 - [DevMaterial](https://github.com/DevMaterial)
 - [Narayana Suri](https://github.com/narayanasuri)
@@ -5529,6 +5529,6 @@
 - [Siddharth Maurya](http://github.com/savvysiddharth)
 - [Ed Graham](https://github.com/ed-graham)
 - [Kanishk Bansal](https://github.com/kanishk2112)
+mehdi charles nasslahsen
 - [Jerand Tze](https://github.com/jerandtze)
 - [Polina A](https://github.com/thelittlepo)
-
